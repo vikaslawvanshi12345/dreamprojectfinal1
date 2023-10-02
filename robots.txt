@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Allow: /images/
+Sitemap: http://lodhasamajshikshafoundation.netlify.app/sitemap.xml
