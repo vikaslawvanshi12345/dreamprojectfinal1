@@ -1332,6 +1332,7 @@ body
    padding: 20px 15px 0 15px;
    margin-right: auto;
    margin-left: auto;
+   max-width: 900px;
 }
 #LayoutGrid23 > .row
 {
@@ -2331,7 +2332,7 @@ body
    padding: 15px 15px 15px 15px;
    margin-right: auto;
    margin-left: auto;
-   max-width: 380px;
+   max-width: 450px;
 }
 #LayoutGrid13 > .row
 {
@@ -2402,7 +2403,7 @@ body
    padding: 5px 15px 15px 15px;
    margin-right: auto;
    margin-left: auto;
-   max-width: 380px;
+   max-width: 450px;
 }
 #LayoutGrid9 > .row
 {

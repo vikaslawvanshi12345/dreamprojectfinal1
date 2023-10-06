@@ -1113,6 +1113,11 @@ body
    text-align: center;
    text-decoration: underline;
 }
+#Heading19 a
+{
+   color: inherit;
+   text-decoration: none;
+}
 #wb_LayoutGrid12
 {
    clear: both;
@@ -8359,7 +8364,7 @@ body
    clear: both;
    position: relative;
    table-layout: fixed;
-   display: none;
+   display: table;
    text-align: center;
    width: 100%;
    background-color: #FFCCCC;

@@ -11,7 +11,7 @@ body
 }
 #preloader
 {
-   background: #FFFFFF url("../images/pulsate.gif") no-repeat center center;
+   background: #FFFFFF url("../images/rotating-dots.gif") no-repeat center center;
    bottom: 0;
    position: fixed;
    top: 0;
