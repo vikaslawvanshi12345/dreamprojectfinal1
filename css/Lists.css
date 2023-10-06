@@ -8364,7 +8364,7 @@ body
    clear: both;
    position: relative;
    table-layout: fixed;
-   display: table;
+   display: none;
    text-align: center;
    width: 100%;
    background-color: #FFCCCC;
@@ -10230,7 +10230,7 @@ body
    animation: transform-wiggle 1000ms linear 0ms infinite normal both;
    display: inline-block;
    width: 44px;
-   height: 40px;
+   height: 39px;
    vertical-align: top;
 }
 #wb_Text13 
