@@ -10487,7 +10487,7 @@ width: 100%;}
    justify-content: flex-start;
    text-align: left;
 }
-@media (max-width: 480px)
+@media (max-width: 650px)
 {
 #LayoutGrid60 > .col-1, #LayoutGrid60 > .col-2
 {
