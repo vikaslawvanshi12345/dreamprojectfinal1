@@ -1,20 +1,3 @@
-@font-face
-{
-   font-family: "Font Awesome 5 Brands";
-   font-display: swap;
-   src: url('../fa-brands-400.woff2') format('woff2'),
-        url('../fa-brands-400.woff') format('woff'),
-        url('../fa-brands-400.ttf') format('truetype');
-}
-@font-face
-{
-   font-family: "Feather";
-   font-display: swap;
-   src: url('../feathericon.woff') format('woff'),
-        url('../feathericon.ttf') format('truetype'),
-        url('../feathericon.svg#feathericon') format('svg'),
-        url('../feathericon.eot') format('embedded-opentype');
-}
 @keyframes animate-fire-text-shadow
 {
    0% { text-shadow: #fff 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 10px, red 0 -8px 10px;  }
@@ -39,6 +22,46 @@
    80% { transform: rotate(0deg) skewX(1deg) ;  }
    90% { transform: rotate(0deg) skewX(0deg) ;  }
    100% { transform: rotate(0deg) skewX(0deg) ;  }
+}
+a.style1
+{
+   color: #FFFFFF;
+   text-decoration: underline;
+}
+a.style1:visited
+{
+   color: #FFFFFF;
+   text-decoration: underline;
+}
+a.style1:active
+{
+   color: #FFFFFF;
+   text-decoration: underline;
+}
+a.style1:hover
+{
+   color: #FFFFFF;
+   text-decoration: underline;
+}
+a.style2
+{
+   color: #0000FF;
+   text-decoration: none;
+}
+a.style2:visited
+{
+   color: #800080;
+   text-decoration: underline;
+}
+a.style2:active
+{
+   color: #FF0000;
+   text-decoration: underline;
+}
+a.style2:hover
+{
+   color: #0000FF;
+   text-decoration: underline;
 }
 h1, .h1
 {

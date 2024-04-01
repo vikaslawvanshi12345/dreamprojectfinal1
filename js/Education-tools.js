@@ -18,10 +18,10 @@ $(document).ready(function()
    });
    searchParseURL('SiteSearch2');
    searchAutoComplete('SiteSearch2', 0, '_parent');
-   $("a[href*='#LayoutGrid105']").click(function(event)
+   $("a[href*='#LayoutGrid104']").click(function(event)
    {
       event.preventDefault();
-      $('html, body').stop().animate({ scrollTop: $('#wb_LayoutGrid105').offset().top }, 600, 'easeInCubic');
+      $('html, body').stop().animate({ scrollTop: $('#wb_LayoutGrid104').offset().top }, 600, 'easeInCubic');
    });
    if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1) {$('#preloader').remove();}
 });
